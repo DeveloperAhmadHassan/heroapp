@@ -155,6 +155,23 @@ Application entry point.
 
 ---
 
+
+# Screenshots
+
+| Home Screen | Training Calendar |
+|---|---|
+| ![Home Screen](screenshots/home.png) | ![Training Calendar](screenshots/calendar.png) |
+
+| Mood Page | Profile Page                                    |
+|---|-------------------------------------------------|
+| ![Mood Page](screenshots/mood.png) | ![Training Plan Page](screenshots/training.png) |
+
+---
+
+# App Recording
+
+[▶ Watch App Demo](screenshots/recording.webm)
+
 # Getting Started
 
 ## Install dependencies
