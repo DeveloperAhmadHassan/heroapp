@@ -21,18 +21,15 @@ Programming language used to develop the application.
 ### http `^1.6.0`
 Used for making HTTP requests and API calls.
 
-**Why it was necessary:**
-- Fetch weather data from external APIs.
-- Handle network communication within the app.
-
 ---
 
 ### geolocator `^14.0.2`
 Used to access the device’s location services.
 
-**Why it was necessary:**
-- Retrieve the user’s current location.
-- Provide location-based weather information.
+---
+
+### flutter_dotenv `^6.0.1`
+Used to access the env files.
 
 ---
 
@@ -170,7 +167,7 @@ Application entry point.
 
 # App Recording
 
-[▶ Watch App Demo](screenshots/recording.webm)
+[▶ Watch App Demo](https://drive.google.com/file/d/1IrYCXnbmeNb7VObMaahmRe6nwKXzR5Kp/view?usp=sharing)
 
 # Getting Started
 
