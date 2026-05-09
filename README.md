@@ -169,6 +169,11 @@ Application entry point.
 
 [▶ Watch App Demo](https://drive.google.com/file/d/1IrYCXnbmeNb7VObMaahmRe6nwKXzR5Kp/view?usp=sharing)
 
+
+# App APK
+
+[Download App APK](https://github.com/DeveloperAhmadHassan/heroapp/releases/download/v1.0.0/app-release.apk)
+
 # Getting Started
 
 ## Install dependencies
